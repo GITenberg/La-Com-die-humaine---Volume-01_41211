@@ -34,6 +34,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: Avant-propos -- La Maison du chat-qui-pelote -- Le Bal de Sceaux
   -- La Bourse -- La Vendetta -- Madame Firmiani -- Une double famille -- La Paix
   du ménage -- La Fausse Maîtresse -- Étude de femme -- Albert Savarus
